@@ -7,6 +7,7 @@
 1)User Register:-http://127.0.0.1:4000/api/register
 2)User Login   :-http://127.0.0.1:4000/api/login
 3)User Profile :-http://127.0.0.1:4000/api/profile
+4)Profile Image Url:-http://127.0.0.1:4000/Your Profile Image name Stored In Public Folder Or Database
 
 # Operations:-
 1)Register:- POST REQUEST
@@ -31,6 +32,7 @@ Start User Profile process with set the authorization token in header then hit g
 7)Nodemon for Continuous Monitoring Of Changes In file 
 
 # Notes:- The DataBase Url and the jwt secret key and the Port are defined in the .env file 
+And The Image Url Are Working Fine To cheack Hit Profile Image Url In Browser 
 
 
 
